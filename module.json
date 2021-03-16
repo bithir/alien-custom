@@ -12,5 +12,6 @@
     "compatibleCoreVersion":"0.7.9",
     "styles": [
         "css/custom-style.css"
-    ]        
+    ],
+    "manifest": "https://raw.githubusercontent.com/bithir/alien-custom/main/module.json"
 }
