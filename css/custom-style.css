@@ -1,0 +1,20 @@
+.rollItem:hover, .rollItem:focus {
+    text-shadow: 0 0 20px red;
+    /* font-size: 110%;
+    font-weight: bolder; */
+    cursor: pointer;
+  }
+  
+  .openItem:hover, .openItem:focus {
+    text-shadow: 0 0 20px red;
+    /* font-size: 110%; 
+       font-weight: bolder; */
+    cursor: pointer;
+  }
+  
+  .talent-btn:hover, .talent-btn:focus {
+    color: #288f00;
+    text-shadow: 0 0 20px red;
+    /* font-weight: bolder; */
+    cursor: pointer;
+  }

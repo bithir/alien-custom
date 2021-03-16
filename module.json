@@ -1,0 +1,16 @@
+{
+    "name": "alien-custom",
+    "title": "CSS Tailor for Alien RPG",
+    "description": "A module containing CSS changes",
+    "authors": [ { 
+        "name":"Peter Norell",
+        "email":"bithirh@gmail.com",
+        "url":"https://bithir.co.uk" 
+        } ],
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.6.0",
+    "compatibleCoreVersion":"0.7.9",
+    "styles": [
+        "css/custom-style.css"
+    ]        
+}
