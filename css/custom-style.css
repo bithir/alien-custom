@@ -1,18 +1,29 @@
+h3 {
+    font-size: 100%;
+}
+
+h2.rollable:hover, h2.rollable:focus {
+        font-size: 1.5em;
+}
+
 .rollable:hover, .rollable:focus {
     text-shadow: 0 0 20px red;
     font-weight: normal;
+    font-size: 100%;
     cursor: pointer;
 }
   
 .creature-acid-roll:hover, .creature-acid-roll:focus {
     text-shadow: 0 0 20px red;
     font-weight: normal;
+    font-size: 100%;
     cursor: pointer;
 }
   
 .rollItem:hover, .rollItem:focus {
     text-shadow: 0 0 20px red;
     font-weight: normal;
+    font-size: 100%;
     cursor: pointer;
 }
   
@@ -20,12 +31,14 @@
 .rollItem:hover, .rollItem:focus {
     text-shadow: 0 0 20px red;
     font-weight: normal;
+    font-size: 100%;
     cursor: pointer;
 }
   
 .openItem:hover, .openItem:focus {
     text-shadow: 0 0 20px red;
     font-weight: normal;
+    font-size: 100%;
     cursor: pointer;
 }
   
@@ -33,5 +46,6 @@
     color: #288f00;
     text-shadow: 0 0 20px red;
     font-weight: normal;
+    font-size: 100%;
     cursor: pointer;
 }
